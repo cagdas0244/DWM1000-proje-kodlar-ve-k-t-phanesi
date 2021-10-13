@@ -1,0 +1,3 @@
+Aşama-1:"arduino-dw1000-master" kütüphanesini sisteme yükleyin 
+Aşama-2:1. Arduino devresi için kodunu açıp ilk devreye yükleyin
+Aşama-3:2. Arduino devresi için kodunu açıp ikinci devreye yükleyin
