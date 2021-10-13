@@ -1,2 +1,2 @@
-# DWM1000-proje-kodlar-ve-k-t-phanesi
+# DWM1000-proje-kodlar-ve-kutuphanesi
 Kapalı Ortam Konum Bilgilendirme Projesi
